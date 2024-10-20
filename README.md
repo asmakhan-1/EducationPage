@@ -36,7 +36,7 @@ To set up the Educational Website locally, follow these steps:
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/educational-website.git
+git clone (https://github.com/asmakhan-1/EducationPage/)
 Navigate to the project directory:
 
 
