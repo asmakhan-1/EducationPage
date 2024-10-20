@@ -1,8 +1,9 @@
 Educational Website
 Welcome to the Educational Website! This platform offers a range of educational resources and interactive content to enhance learning experiences across various subjects.
 
-![Screenshot (6)](https://github.com/user-attachments/assets/8b114353-5cac-4af7-b58f-bc8ebec7367f)
 ![Screenshot (5)](https://github.com/user-attachments/assets/dd42810d-051c-4d79-9790-bce9322f130a)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/8b114353-5cac-4af7-b58f-bc8ebec7367f)
 
 Table of Contents
 Features
